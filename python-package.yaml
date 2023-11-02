@@ -1,0 +1,19 @@
+name: my-python-package
+version: 1.0.0
+description: A sample Python package
+author: Stephen de Jager
+email: stephen@example.com
+license: MIT
+keywords:
+  - python
+  - package
+  - sample
+
+dependencies:
+  - requests
+  - numpy
+  - matplotlib
+
+dev-dependencies:
+  - pytest
+  - pylint
